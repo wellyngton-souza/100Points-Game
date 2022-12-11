@@ -1,3 +1,4 @@
+#Todas as Medidas estao em px
 #tabuleiro
 tabuleirox = 500
 tabuleiroy = 500
