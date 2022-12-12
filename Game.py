@@ -7,7 +7,7 @@ import config.config as config
 customtkinter.set_appearance_mode("light")
 window = customtkinter.CTk()
 window.geometry("1280x720")
-window.title("DinoGame")
+window.title("100Points-Game")
 window.minsize(500, 500)
 
 mainbox = customtkinter.CTkFrame(master=window, width= 1024, height=config.tabuleiroy)
